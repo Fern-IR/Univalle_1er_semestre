@@ -1,1 +1,2 @@
+Este proyecto es mi Examen de animacion digital, donde se maneja animaciones de Asesprite fotograma por fotograma y se redacta en un documento PDF el paso a paso de como se realizo el proyecto
 
