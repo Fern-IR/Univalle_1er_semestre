@@ -1,0 +1,14 @@
+C:\Users\T003-24\Desktop\Practica17\Estaturas\bin\Debug\net9.0\Estaturas.exe
+C:\Users\T003-24\Desktop\Practica17\Estaturas\bin\Debug\net9.0\Estaturas.deps.json
+C:\Users\T003-24\Desktop\Practica17\Estaturas\bin\Debug\net9.0\Estaturas.runtimeconfig.json
+C:\Users\T003-24\Desktop\Practica17\Estaturas\bin\Debug\net9.0\Estaturas.dll
+C:\Users\T003-24\Desktop\Practica17\Estaturas\bin\Debug\net9.0\Estaturas.pdb
+C:\Users\T003-24\Desktop\Practica17\Estaturas\obj\Debug\net9.0\Estaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T003-24\Desktop\Practica17\Estaturas\obj\Debug\net9.0\Estaturas.AssemblyInfoInputs.cache
+C:\Users\T003-24\Desktop\Practica17\Estaturas\obj\Debug\net9.0\Estaturas.AssemblyInfo.cs
+C:\Users\T003-24\Desktop\Practica17\Estaturas\obj\Debug\net9.0\Estaturas.csproj.CoreCompileInputs.cache
+C:\Users\T003-24\Desktop\Practica17\Estaturas\obj\Debug\net9.0\Estaturas.dll
+C:\Users\T003-24\Desktop\Practica17\Estaturas\obj\Debug\net9.0\refint\Estaturas.dll
+C:\Users\T003-24\Desktop\Practica17\Estaturas\obj\Debug\net9.0\Estaturas.pdb
+C:\Users\T003-24\Desktop\Practica17\Estaturas\obj\Debug\net9.0\Estaturas.genruntimeconfig.cache
+C:\Users\T003-24\Desktop\Practica17\Estaturas\obj\Debug\net9.0\ref\Estaturas.dll

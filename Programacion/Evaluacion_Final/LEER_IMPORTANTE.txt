@@ -1,0 +1,1 @@
+Modelo de aprendizaje supervisado en C# que aprende, a partir de ejemplos etiquetados, a distinguir entre “Saludable” y “Enfermo” usando temperatura, presión arterial y edad. Primero normaliza los datos (Min-Max), luego entrena una regresión logística con descenso de gradiente y, finalmente, genera un diagnóstico estimado a partir de los valores ingresados por el usuario.

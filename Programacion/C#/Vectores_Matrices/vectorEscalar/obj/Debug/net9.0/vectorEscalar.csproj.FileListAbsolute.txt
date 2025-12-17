@@ -1,0 +1,14 @@
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\bin\Debug\net9.0\vectorEscalar.exe
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\bin\Debug\net9.0\vectorEscalar.deps.json
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\bin\Debug\net9.0\vectorEscalar.runtimeconfig.json
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\bin\Debug\net9.0\vectorEscalar.dll
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\bin\Debug\net9.0\vectorEscalar.pdb
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\obj\Debug\net9.0\vectorEscalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\obj\Debug\net9.0\vectorEscalar.AssemblyInfoInputs.cache
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\obj\Debug\net9.0\vectorEscalar.AssemblyInfo.cs
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\obj\Debug\net9.0\vectorEscalar.csproj.CoreCompileInputs.cache
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\obj\Debug\net9.0\vectorEscalar.dll
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\obj\Debug\net9.0\refint\vectorEscalar.dll
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\obj\Debug\net9.0\vectorEscalar.pdb
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\obj\Debug\net9.0\vectorEscalar.genruntimeconfig.cache
+C:\Users\sunix\Downloads\Practica 19\vectorEscalar\obj\Debug\net9.0\ref\vectorEscalar.dll

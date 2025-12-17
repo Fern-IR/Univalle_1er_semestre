@@ -1,0 +1,14 @@
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\bin\Debug\net9.0\ejercicio5.exe
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\bin\Debug\net9.0\ejercicio5.deps.json
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\bin\Debug\net9.0\ejercicio5.runtimeconfig.json
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\bin\Debug\net9.0\ejercicio5.dll
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\bin\Debug\net9.0\ejercicio5.pdb
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\obj\Debug\net9.0\ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\obj\Debug\net9.0\ejercicio5.AssemblyInfoInputs.cache
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\obj\Debug\net9.0\ejercicio5.AssemblyInfo.cs
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\obj\Debug\net9.0\ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\obj\Debug\net9.0\ejercicio5.dll
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\obj\Debug\net9.0\refint\ejercicio5.dll
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\obj\Debug\net9.0\ejercicio5.pdb
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\obj\Debug\net9.0\ejercicio5.genruntimeconfig.cache
+C:\Users\sunix\OneDrive\Escritorio\Estructuras Selectivas\ejercicio5\obj\Debug\net9.0\ref\ejercicio5.dll

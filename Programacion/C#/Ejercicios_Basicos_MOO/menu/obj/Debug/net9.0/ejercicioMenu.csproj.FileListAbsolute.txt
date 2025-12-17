@@ -1,0 +1,14 @@
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\bin\Debug\net9.0\ejercicioMenu.exe
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\bin\Debug\net9.0\ejercicioMenu.deps.json
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\bin\Debug\net9.0\ejercicioMenu.runtimeconfig.json
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\bin\Debug\net9.0\ejercicioMenu.dll
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\bin\Debug\net9.0\ejercicioMenu.pdb
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\obj\Debug\net9.0\ejercicioMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\obj\Debug\net9.0\ejercicioMenu.AssemblyInfoInputs.cache
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\obj\Debug\net9.0\ejercicioMenu.AssemblyInfo.cs
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\obj\Debug\net9.0\ejercicioMenu.csproj.CoreCompileInputs.cache
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\obj\Debug\net9.0\ejercicioMenu.dll
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\obj\Debug\net9.0\refint\ejercicioMenu.dll
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\obj\Debug\net9.0\ejercicioMenu.pdb
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\obj\Debug\net9.0\ejercicioMenu.genruntimeconfig.cache
+C:\Users\sunix\OneDrive\Escritorio\tareapro\ejercicioMenu\obj\Debug\net9.0\ref\ejercicioMenu.dll

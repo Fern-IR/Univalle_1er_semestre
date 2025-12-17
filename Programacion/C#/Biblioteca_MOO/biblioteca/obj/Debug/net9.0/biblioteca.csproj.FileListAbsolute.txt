@@ -1,0 +1,14 @@
+C:\Users\T003-24\Desktop\Tarea\biblioteca\obj\Debug\net9.0\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T003-24\Desktop\Tarea\biblioteca\obj\Debug\net9.0\biblioteca.AssemblyInfoInputs.cache
+C:\Users\T003-24\Desktop\Tarea\biblioteca\obj\Debug\net9.0\biblioteca.AssemblyInfo.cs
+C:\Users\T003-24\Desktop\Tarea\biblioteca\obj\Debug\net9.0\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\T003-24\Desktop\Tarea\biblioteca\bin\Debug\net9.0\biblioteca.exe
+C:\Users\T003-24\Desktop\Tarea\biblioteca\bin\Debug\net9.0\biblioteca.deps.json
+C:\Users\T003-24\Desktop\Tarea\biblioteca\bin\Debug\net9.0\biblioteca.runtimeconfig.json
+C:\Users\T003-24\Desktop\Tarea\biblioteca\bin\Debug\net9.0\biblioteca.dll
+C:\Users\T003-24\Desktop\Tarea\biblioteca\bin\Debug\net9.0\biblioteca.pdb
+C:\Users\T003-24\Desktop\Tarea\biblioteca\obj\Debug\net9.0\biblioteca.dll
+C:\Users\T003-24\Desktop\Tarea\biblioteca\obj\Debug\net9.0\refint\biblioteca.dll
+C:\Users\T003-24\Desktop\Tarea\biblioteca\obj\Debug\net9.0\biblioteca.pdb
+C:\Users\T003-24\Desktop\Tarea\biblioteca\obj\Debug\net9.0\biblioteca.genruntimeconfig.cache
+C:\Users\T003-24\Desktop\Tarea\biblioteca\obj\Debug\net9.0\ref\biblioteca.dll

@@ -1,0 +1,14 @@
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\bin\Debug\net9.0\sumaVectoresPronderados.exe
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\bin\Debug\net9.0\sumaVectoresPronderados.deps.json
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\bin\Debug\net9.0\sumaVectoresPronderados.runtimeconfig.json
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\bin\Debug\net9.0\sumaVectoresPronderados.dll
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\bin\Debug\net9.0\sumaVectoresPronderados.pdb
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\obj\Debug\net9.0\sumaVectoresPronderados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\obj\Debug\net9.0\sumaVectoresPronderados.AssemblyInfoInputs.cache
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\obj\Debug\net9.0\sumaVectoresPronderados.AssemblyInfo.cs
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\obj\Debug\net9.0\sumaVectoresPronderados.csproj.CoreCompileInputs.cache
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\obj\Debug\net9.0\sumaVectoresPronderados.dll
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\obj\Debug\net9.0\refint\sumaVectoresPronderados.dll
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\obj\Debug\net9.0\sumaVectoresPronderados.pdb
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\obj\Debug\net9.0\sumaVectoresPronderados.genruntimeconfig.cache
+C:\Users\sunix\Downloads\Practica 19\sumaVectoresPronderados\obj\Debug\net9.0\ref\sumaVectoresPronderados.dll

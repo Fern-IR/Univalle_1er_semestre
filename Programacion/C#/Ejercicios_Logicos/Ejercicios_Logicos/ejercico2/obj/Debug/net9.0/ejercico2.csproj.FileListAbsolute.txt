@@ -1,0 +1,14 @@
+C:\Users\T003-24\Documents\practico8\ejercico2\bin\Debug\net9.0\ejercico2.exe
+C:\Users\T003-24\Documents\practico8\ejercico2\bin\Debug\net9.0\ejercico2.deps.json
+C:\Users\T003-24\Documents\practico8\ejercico2\bin\Debug\net9.0\ejercico2.runtimeconfig.json
+C:\Users\T003-24\Documents\practico8\ejercico2\bin\Debug\net9.0\ejercico2.dll
+C:\Users\T003-24\Documents\practico8\ejercico2\bin\Debug\net9.0\ejercico2.pdb
+C:\Users\T003-24\Documents\practico8\ejercico2\obj\Debug\net9.0\ejercico2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T003-24\Documents\practico8\ejercico2\obj\Debug\net9.0\ejercico2.AssemblyInfoInputs.cache
+C:\Users\T003-24\Documents\practico8\ejercico2\obj\Debug\net9.0\ejercico2.AssemblyInfo.cs
+C:\Users\T003-24\Documents\practico8\ejercico2\obj\Debug\net9.0\ejercico2.csproj.CoreCompileInputs.cache
+C:\Users\T003-24\Documents\practico8\ejercico2\obj\Debug\net9.0\ejercico2.dll
+C:\Users\T003-24\Documents\practico8\ejercico2\obj\Debug\net9.0\refint\ejercico2.dll
+C:\Users\T003-24\Documents\practico8\ejercico2\obj\Debug\net9.0\ejercico2.pdb
+C:\Users\T003-24\Documents\practico8\ejercico2\obj\Debug\net9.0\ejercico2.genruntimeconfig.cache
+C:\Users\T003-24\Documents\practico8\ejercico2\obj\Debug\net9.0\ref\ejercico2.dll
